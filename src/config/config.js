@@ -4,10 +4,10 @@ const config = {
     title: "Pernikahan Fulan & Fulana", // Nanti ini otomatis
     description:
       "Kami akan menikah dan mengundang Anda untuk turut merayakan momen istimewa ini.", // Nanti ini dibikin random
-    groomName: "Fulan",
-    brideName: "Fulana",
-    parentGroom: "Bapak Groom & Ibu Groom",
-    parentBride: "Bapak Bride & Ibu Bride",
+    groomName: "Khafid",
+    brideName: "Novi",
+    parentGroom: "Bapak Siswanto (Alm) & Ibu Solekhah",
+    parentBride: "Bapak Turyanto & Ibu Sureni",
     date: "2024-12-24",
     maps_url: "https://goo.gl/maps/abcdef",
     maps_embed:
@@ -20,15 +20,15 @@ const config = {
     agenda: [
       {
         title: "Akad Nikah",
-        date: "2024-12-24",
-        startTime: "16:16",
-        endTime: "17:30",
-        location: "Grand Ballroom, Hotel Majesty",
-        address: "Jl. Jend. Sudirman No.1, Jakarta",
+        date: "2025-9-14",
+        startTime: "08:00",
+        endTime: "22:00",
+        location: "Rumah Mempelai Wanita",
+        address: "Jl. Jend. Sudirman No.1",
       },
       {
         title: "Resepsi Nikah",
-        date: "2024-12-24",
+        date: "2025-9-14",
         startTime: "16:16",
         endTime: "17:30",
         location: "Grand Ballroom, Hotel Majesty",
@@ -43,14 +43,14 @@ const config = {
     },
     banks: [
       {
-        bank: "Bank Central Asia",
-        accountNumber: "1234567890",
-        accountName: "FULAN",
+        bank: "Dana",
+        accountNumber: "089536383732",
+        accountName: "KHAFID PERMANA PUTRA",
       },
       {
         bank: "Bank Mandiri",
-        accountNumber: "0987654321",
-        accountName: "FULANA",
+        accountNumber: "1370012220469",
+        accountName: "KHAFID PERMANA PUTRA",
       }
     ]
   }
